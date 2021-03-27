@@ -1,14 +1,7 @@
 @charset "UTF-8";
 @import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
 
-/* html {
-  width: 100%;
-  height: 100%;
-} */
-
 body {
-  /* margin: 0;
-  padding: 0; */
   font-family: 'Noto Sans JP', sans-serif;
   font-size: 16px;
   background: #eee;
@@ -21,6 +14,7 @@ body {
   background: #fff;
   padding: 15px;
   text-align: center;
+  border-radius: 8px;
 }
 
 #timer {
@@ -29,6 +23,7 @@ body {
   line-height: 120px;
   font-size: 40px;
   letter-spacing: 3px;
+  border-radius: 8px;
 }
 
 .controls {
@@ -45,6 +40,7 @@ body {
   font-weight: bold;
   cursor: pointer;
   user-select: none;
+  border-radius: 8px;
 }
 
 .inactive {
