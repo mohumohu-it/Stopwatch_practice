@@ -1,1 +1,1 @@
-# Stopwatch_practice
+# ストップウォッチ練習
