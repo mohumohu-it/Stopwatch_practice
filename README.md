@@ -1,1 +1,2 @@
 # Stopwatch_practice
+JavaScriptの練習として作成
