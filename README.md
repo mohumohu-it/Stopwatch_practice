@@ -1,5 +1,1 @@
-# ストップウォッチ練習
-あ
-ああ
-あああ
-てst
+# Stopwatch_practice
